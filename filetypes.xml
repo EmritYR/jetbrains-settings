@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="mzn" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
