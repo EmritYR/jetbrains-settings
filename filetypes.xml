@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="mzn" type="PLAIN_TEXT" />
       <mapping ext="npy" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
